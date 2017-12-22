@@ -177,9 +177,11 @@ body.page-template-page-fullsingle-split {
     line-height: 20px;
     margin-bottom: 40px;
     letter-spacing: 0.4px;
-    color: #47bec7; }
+    color: #CA486d; }
   .split-intro .tagline {
-    color: #CCCCCC; }
+    color: #CCCCCC;
+    text-align: center;
+}
 
 .split-bio {
   padding: 40px 0 40px 0;
@@ -191,7 +193,7 @@ body.page-template-page-fullsingle-split {
     .split-bio {
       padding: 20px 0; } }
   .split-bio p {
-    color: #848d96; }
+    color: #ffffff; }
   .split-bio a {
     color: #848d96;
     transition-duration: 0.5s;
