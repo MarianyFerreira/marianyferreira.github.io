@@ -103,6 +103,7 @@ html {
 
 body.page-template-page-fullsingle-split {
   width: 100%;
+  height: 100%;
   background-image: url("../images/social.jpg");
   background-position: center center;
   font-family: 'Montserrat', sans-serif;
@@ -128,7 +129,7 @@ body.page-template-page-fullsingle-split {
       -ms-flex-wrap: wrap;
           flex-wrap: wrap; } }
   .fs-split .split-image {
-    width: 25%;
+    width: 50%;
     background-image: url("../images/background.jpg");
     background-position: center center;
     background-size: cover; }
