@@ -23,7 +23,7 @@ $bp-tablet 			: 800px;
 $bp-mobile 			: 500px;
 
 // Images
-$image-background	: url('../images/background.jpg');
+$image-background	: url('../images/social.jpg');
 
 //-------------------------------------------------------------------------------
 // Fade In
@@ -80,7 +80,7 @@ body.page-template-page-fullsingle-split {
 	//-------------------------------------------------------------------------------
 
 	.split-image {
-		width: 50%;
+		width: 30%;
 		height: 100vh;
 		background-image: $image-background; 
 		background-position:center center;
