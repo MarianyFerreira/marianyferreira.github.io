@@ -129,7 +129,6 @@ body.page-template-page-fullsingle-split {
           flex-wrap: wrap; } }
   .fs-split .split-image {
     width: 25%;
-    height: 100vh;
     background-image: url("../images/background.jpg");
     background-position: center center;
     background-size: cover; }
